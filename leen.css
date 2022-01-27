@@ -8,6 +8,7 @@ body{
   img{
     Position: relative;
     left:30%;
+    width:200px;
   }
   p{
     text-align: center;
